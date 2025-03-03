@@ -17,8 +17,8 @@
 1. **Клонируйте репозиторий:**
 
     ```bash
-    git clone https://github.com/yourusername/hotelsInfo.git
-    cd hotelsInfo
+    git clone https://github.com/malankaMcQueen/HotelService.git
+    cd HotelService
     ```
 
 2. **Установите зависимости:**
